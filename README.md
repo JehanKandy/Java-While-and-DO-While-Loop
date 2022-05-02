@@ -3,23 +3,23 @@ Java While and DO While Loop
 <br><br>
 Code Explain
 <br>
-    public class while_loop {
-        public static void main(String[] args) {
-            int i = 0;
+        public class while_loop {
+            public static void main(String[] args) {
+                int i = 0;
 
-            //While loop
-            while(i < 5){
-                System.out.println("Hello");
-                i++;
-            }
+                //While loop
+                while(i < 5){
+                    System.out.println("Hello");
+                    i++;
+                }
 
-            //do while loop
+                //do while loop
 
-            int k = 0;
-            do{
-                System.out.println("hello Do while loop");
-                k++;
-            }
-            while(k < 5);
-        }    
-    }
+                int k = 0;
+                do{
+                    System.out.println("hello Do while loop");
+                    k++;
+                }
+                while(k < 5);
+            }    
+        }
