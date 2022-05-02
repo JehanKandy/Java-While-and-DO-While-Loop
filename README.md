@@ -24,7 +24,7 @@ Code Explain
             }    
         }
 
-for starter code, Watch followin link,<br>
+for starter code, Watch following link,<br>
 https://github.com/JehanKandy/First-Coding-with-JAVA
 <br><br>
 
@@ -37,4 +37,25 @@ In oder to following Code,<br>
              System.out.println("Hello");
              i++;
         }
+        
+In oder to this code, firstly<br>
+I create a veriable named, 
 
+        int i = 0;
+
+it is use for following code,
+        
+        while(i < 5){
+             System.out.println("Hello");
+             i++;
+        }
+     
+In the while loop code I used,
+        
+        while(i < 5){
+        
+for count five times, as "Hello" word, <br>
+
+
+
+        
