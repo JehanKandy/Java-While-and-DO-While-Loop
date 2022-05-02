@@ -65,6 +65,17 @@ because the while loop needs to increment after one by one
 
 ******************************************************************
 
+and in oder to DO WHILE LOOP
+
+          //do while loop
+
+          int k = 0;
+          do{
+               System.out.println("hello Do while loop");
+               k++;
+          }
+          while(k < 5);
+
 
 DEVELOPER : JEHANKANDY
 THANK YOU
