@@ -2,7 +2,7 @@
 Java While and DO While Loop
 <br><br>
 Code Explain
-<br>
+
         public class while_loop {
             public static void main(String[] args) {
                 int i = 0;
