@@ -56,6 +56,18 @@ In the while loop code I used,
         
 for count five times, as "Hello" word, <br>
 
+         System.out.println("Hello");
+         i++;
+         
+and above code i use i++,
+because the while loop needs to increment after one by one
+
+
+******************************************************************
+
+
+DEVELOPER : JEHANKANDY
+THANK YOU
 
 
         
