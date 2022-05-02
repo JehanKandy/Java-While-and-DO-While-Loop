@@ -24,8 +24,17 @@ Code Explain
             }    
         }
 
-for starter code, Watch followin link,
+for starter code, Watch followin link,<br>
 https://github.com/JehanKandy/First-Coding-with-JAVA
 <br><br>
 
 In oder to following Code,<br>
+
+        int i = 0;
+
+        //While loop
+        while(i < 5){
+             System.out.println("Hello");
+             i++;
+        }
+
