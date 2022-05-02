@@ -25,3 +25,7 @@ Code Explain
         }
 
 for starter code, Watch followin link,
+https://github.com/JehanKandy/First-Coding-with-JAVA
+<br><br>
+
+In oder to following Code,<br>
